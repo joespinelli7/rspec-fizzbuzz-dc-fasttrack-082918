@@ -9,3 +9,8 @@ def fizzbuzz(int)
     nil
   end
 end
+
+fizzbuzz(45)
+fizzbuzz(10)
+fizzbuzz(33)
+fizzbuzz(6.9)
