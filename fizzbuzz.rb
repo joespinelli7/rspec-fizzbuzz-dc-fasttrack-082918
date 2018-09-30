@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num)
  if num % 15 == 0
-   "Fizzbuzz"
+   "FizzBuzz"
  elsif num % 5 == 0
    "Buzz"
  elsif num % 3 == 0
